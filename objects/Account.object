@@ -422,7 +422,7 @@
     <fields>
         <fullName>SLAExpirationDate__c</fullName>
         <externalId>false</externalId>
-        <label>SLA Expiration Date Update Test</label>
+        <label>SLA Expiration Date Update Test2</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
