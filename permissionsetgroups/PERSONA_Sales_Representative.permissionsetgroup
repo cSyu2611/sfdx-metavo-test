@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Provides application access that the Sales Representative user requires.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>PERSONA: Sales Representative</label>
+    <permissionSets>LEAD_Sales_CRU</permissionSets>
+    <permissionSets>force__CRMUserPsl</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
