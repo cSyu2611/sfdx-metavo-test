@@ -404,7 +404,7 @@
         <fullName>Preferred_Payment_Method__c</fullName>
         <description>Account&apos;s preferred method of payment</description>
         <externalId>false</externalId>
-        <inlineHelpText>Account&apos;s preferred method of payment</inlineHelpText>
+        <inlineHelpText>Account&apos;s preferred method of payment update1</inlineHelpText>
         <label>Preferred Payment Method</label>
         <length>50</length>
         <required>false</required>
